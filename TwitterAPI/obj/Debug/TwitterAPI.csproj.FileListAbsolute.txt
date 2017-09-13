@@ -1,0 +1,12 @@
+D:\GIT\TwitterAPI\TwitterAPI\bin\Debug\TwitterAPI.exe.config
+D:\GIT\TwitterAPI\TwitterAPI\bin\Debug\TwitterAPI.exe
+D:\GIT\TwitterAPI\TwitterAPI\bin\Debug\TwitterAPI.pdb
+D:\GIT\TwitterAPI\TwitterAPI\bin\Debug\Hammock.ClientProfile.dll
+D:\GIT\TwitterAPI\TwitterAPI\bin\Debug\Newtonsoft.Json.dll
+D:\GIT\TwitterAPI\TwitterAPI\bin\Debug\TweetSharp.dll
+D:\GIT\TwitterAPI\TwitterAPI\bin\Debug\Hammock.ClientProfile.pdb
+D:\GIT\TwitterAPI\TwitterAPI\bin\Debug\Newtonsoft.Json.xml
+D:\GIT\TwitterAPI\TwitterAPI\bin\Debug\TweetSharp.pdb
+D:\GIT\TwitterAPI\TwitterAPI\obj\Debug\TwitterAPI.csprojResolveAssemblyReference.cache
+D:\GIT\TwitterAPI\TwitterAPI\obj\Debug\TwitterAPI.exe
+D:\GIT\TwitterAPI\TwitterAPI\obj\Debug\TwitterAPI.pdb
